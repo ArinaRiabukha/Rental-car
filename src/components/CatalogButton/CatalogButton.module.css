@@ -1,0 +1,21 @@
+.catalogkBtn {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 125%;
+  color: white;
+  border-radius: 12px;
+  padding: 12px 99px;
+  width: 297px;
+  height: 44px;
+  background-color: #3470ff;
+  border: none;
+  margin-bottom: 60px;
+  cursor: pointer;
+  transition: background-color 0.15s ease-in, background-color 0.6s ease-out;
+  align-self: center;
+}
+.catalogkBtn:hover,
+.catalogkBtn:focus {
+  background-color: #0b44cd;
+}
